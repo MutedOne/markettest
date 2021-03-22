@@ -1,0 +1,17 @@
+.adminName{
+	margin-bottom: 0!important;
+}
+
+a{
+	color: black!important;	
+}
+a:hover{
+	color: #5bc0de!important;	
+}
+
+.left{
+	height: 1000px!important;
+}
+.row{
+	height: 1000px!important;
+}
